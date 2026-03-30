@@ -2,7 +2,7 @@
 <br>
 This project builds an intelligent system that analyzes user inputs (journal text + contextual features) to predict emotional state, intensity, and recommend actions.
 <br>
-###Approach
+<h2> Approach</h2>
 <br>
 Text preprocessing using NLTK (tokenization, stopword removal, lemmatization)
 <br>
@@ -16,7 +16,7 @@ Emotional State → RandomForestClassifier
 <br>
 Intensity → RandomForestRegressor
 <br>
-### Feature Engineering
+<h2>Feature Engineering</h2>
 <br>
 Text → TF-IDF (5000 features)
 <br>
@@ -36,7 +36,7 @@ Handles mixed data types well
 <br>
 Works effectively with small-medium datasets
 <br>
-### How to Run
+<h2>How to Run</h2>
 <br>
 Train models using training dataset
 <br>
