@@ -1,0 +1,121 @@
+predicted_state,predicted_intensity,action,timing,confidence,uncertain_flag,message
+focused,3.51,reflect,later_today,0.26,1,You seem focused with intensity 4. It might help to try reflect later today.
+neutral,2.51,deep work,within_15_min,0.242,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+focused,3.36,reflect,later_today,0.35,1,You seem focused with intensity 3. It might help to try reflect later today.
+neutral,3.17,deep work,within_15_min,0.228,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.06,deep work,within_15_min,0.312,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,2.9,deep work,within_15_min,0.314,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,3.19,reflect,later_today,0.292,1,You seem restless with intensity 3. It might help to try reflect later today.
+mixed,3.24,reflect,later_today,0.2,1,You seem mixed with intensity 3. It might help to try reflect later today.
+restless,3.27,reflect,later_today,0.264,1,You seem restless with intensity 3. It might help to try reflect later today.
+neutral,3.15,deep work,within_15_min,0.198,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.31,deep work,within_15_min,0.338,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,2.91,deep work,within_15_min,0.296,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+focused,2.87,reflect,later_today,0.258,1,You seem focused with intensity 3. It might help to try reflect later today.
+mixed,3.03,reflect,later_today,0.244,1,You seem mixed with intensity 3. It might help to try reflect later today.
+mixed,3.25,reflect,later_today,0.324,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,3.05,deep work,within_15_min,0.32,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,2.91,deep work,within_15_min,0.262,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+mixed,3.03,reflect,later_today,0.252,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,3.25,deep work,within_15_min,0.232,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+mixed,3.25,reflect,later_today,0.4,1,You seem mixed with intensity 3. It might help to try reflect later today.
+mixed,3.06,reflect,later_today,0.21,1,You seem mixed with intensity 3. It might help to try reflect later today.
+calm,3.09,continue routine,now,0.324,1,You seem calm with intensity 3. It might help to try continue routine now.
+neutral,3.09,deep work,within_15_min,0.232,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,3.16,reflect,later_today,0.232,1,You seem restless with intensity 3. It might help to try reflect later today.
+neutral,2.92,deep work,within_15_min,0.25,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,3.33,reflect,later_today,0.2,1,You seem restless with intensity 3. It might help to try reflect later today.
+overwhelmed,3.34,reflect,later_today,0.286,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+neutral,3.22,deep work,within_15_min,0.29,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+overwhelmed,3.44,reflect,later_today,0.29,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+mixed,3.32,reflect,later_today,0.262,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,2.89,deep work,within_15_min,0.372,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.04,deep work,within_15_min,0.234,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+overwhelmed,3.17,reflect,later_today,0.198,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+calm,2.83,continue routine,now,0.228,1,You seem calm with intensity 3. It might help to try continue routine now.
+focused,3.38,reflect,later_today,0.25,1,You seem focused with intensity 3. It might help to try reflect later today.
+restless,3.3,reflect,later_today,0.294,1,You seem restless with intensity 3. It might help to try reflect later today.
+calm,2.8,continue routine,now,0.232,1,You seem calm with intensity 3. It might help to try continue routine now.
+focused,3.08,reflect,later_today,0.256,1,You seem focused with intensity 3. It might help to try reflect later today.
+mixed,2.65,reflect,later_today,0.364,1,You seem mixed with intensity 3. It might help to try reflect later today.
+mixed,3.2,reflect,later_today,0.256,1,You seem mixed with intensity 3. It might help to try reflect later today.
+calm,3.03,continue routine,now,0.238,1,You seem calm with intensity 3. It might help to try continue routine now.
+overwhelmed,3.34,reflect,later_today,0.268,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+restless,3.02,reflect,later_today,0.468,1,You seem restless with intensity 3. It might help to try reflect later today.
+calm,2.83,continue routine,now,0.382,1,You seem calm with intensity 3. It might help to try continue routine now.
+mixed,3.15,reflect,later_today,0.278,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,2.69,deep work,within_15_min,0.27,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+focused,3.36,reflect,later_today,0.202,1,You seem focused with intensity 3. It might help to try reflect later today.
+restless,3.52,reflect,later_today,0.232,1,You seem restless with intensity 4. It might help to try reflect later today.
+neutral,2.77,deep work,within_15_min,0.254,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,3.11,reflect,later_today,0.43,1,You seem restless with intensity 3. It might help to try reflect later today.
+focused,3.19,reflect,later_today,0.234,1,You seem focused with intensity 3. It might help to try reflect later today.
+neutral,3.22,deep work,within_15_min,0.27,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,3.42,reflect,later_today,0.248,1,You seem restless with intensity 3. It might help to try reflect later today.
+overwhelmed,3.31,reflect,later_today,0.26,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+mixed,3.3,reflect,later_today,0.252,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,3.24,deep work,within_15_min,0.288,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.12,deep work,within_15_min,0.288,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.27,deep work,within_15_min,0.332,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+calm,3.13,continue routine,now,0.208,1,You seem calm with intensity 3. It might help to try continue routine now.
+focused,2.63,reflect,later_today,0.254,1,You seem focused with intensity 3. It might help to try reflect later today.
+neutral,2.89,deep work,within_15_min,0.294,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+overwhelmed,3.13,reflect,later_today,0.206,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+overwhelmed,3.12,reflect,later_today,0.208,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+neutral,3.06,deep work,within_15_min,0.43,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.3,deep work,within_15_min,0.372,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.17,deep work,within_15_min,0.286,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,3.75,reflect,later_today,0.268,1,You seem restless with intensity 4. It might help to try reflect later today.
+mixed,2.92,reflect,later_today,0.222,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,2.79,deep work,within_15_min,0.258,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,2.9,reflect,later_today,0.308,1,You seem restless with intensity 3. It might help to try reflect later today.
+mixed,3.03,reflect,later_today,0.324,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,3.22,deep work,within_15_min,0.456,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,3.53,reflect,later_today,0.28,1,You seem restless with intensity 4. It might help to try reflect later today.
+mixed,3.23,reflect,later_today,0.276,1,You seem mixed with intensity 3. It might help to try reflect later today.
+focused,2.64,reflect,later_today,0.216,1,You seem focused with intensity 3. It might help to try reflect later today.
+mixed,3.09,reflect,later_today,0.27,1,You seem mixed with intensity 3. It might help to try reflect later today.
+restless,3.24,reflect,later_today,0.242,1,You seem restless with intensity 3. It might help to try reflect later today.
+calm,3.52,continue routine,now,0.23,1,You seem calm with intensity 4. It might help to try continue routine now.
+restless,2.96,reflect,later_today,0.266,1,You seem restless with intensity 3. It might help to try reflect later today.
+calm,2.59,continue routine,now,0.394,1,You seem calm with intensity 3. It might help to try continue routine now.
+restless,3.31,reflect,later_today,0.4,1,You seem restless with intensity 3. It might help to try reflect later today.
+focused,3.01,reflect,later_today,0.26,1,You seem focused with intensity 3. It might help to try reflect later today.
+focused,3.01,reflect,later_today,0.218,1,You seem focused with intensity 3. It might help to try reflect later today.
+overwhelmed,3.02,reflect,later_today,0.228,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+calm,2.94,continue routine,now,0.26,1,You seem calm with intensity 3. It might help to try continue routine now.
+focused,3.3,reflect,later_today,0.214,1,You seem focused with intensity 3. It might help to try reflect later today.
+mixed,3.17,reflect,later_today,0.274,1,You seem mixed with intensity 3. It might help to try reflect later today.
+neutral,3.46,deep work,within_15_min,0.276,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+calm,2.77,continue routine,now,0.364,1,You seem calm with intensity 3. It might help to try continue routine now.
+neutral,3.28,deep work,within_15_min,0.312,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.32,deep work,within_15_min,0.306,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.02,deep work,within_15_min,0.212,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+mixed,2.98,reflect,later_today,0.23,1,You seem mixed with intensity 3. It might help to try reflect later today.
+focused,3.15,reflect,later_today,0.394,1,You seem focused with intensity 3. It might help to try reflect later today.
+mixed,3.23,reflect,later_today,0.282,1,You seem mixed with intensity 3. It might help to try reflect later today.
+overwhelmed,3.59,reflect,later_today,0.388,1,You seem overwhelmed with intensity 4. It might help to try reflect later today.
+restless,2.79,reflect,later_today,0.336,1,You seem restless with intensity 3. It might help to try reflect later today.
+overwhelmed,3.15,reflect,later_today,0.192,1,You seem overwhelmed with intensity 3. It might help to try reflect later today.
+restless,2.99,reflect,later_today,0.224,1,You seem restless with intensity 3. It might help to try reflect later today.
+mixed,3.42,reflect,later_today,0.318,1,You seem mixed with intensity 3. It might help to try reflect later today.
+calm,3.24,continue routine,now,0.21,1,You seem calm with intensity 3. It might help to try continue routine now.
+neutral,3.0,deep work,within_15_min,0.292,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+calm,3.21,continue routine,now,0.232,1,You seem calm with intensity 3. It might help to try continue routine now.
+neutral,3.1,deep work,within_15_min,0.2,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.07,deep work,within_15_min,0.258,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.29,deep work,within_15_min,0.296,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+restless,2.95,reflect,later_today,0.356,1,You seem restless with intensity 3. It might help to try reflect later today.
+neutral,3.28,deep work,within_15_min,0.416,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,3.06,deep work,within_15_min,0.276,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+neutral,2.88,deep work,within_15_min,0.206,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+mixed,3.52,reflect,later_today,0.36,1,You seem mixed with intensity 4. It might help to try reflect later today.
+neutral,2.84,deep work,within_15_min,0.274,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+calm,3.12,continue routine,now,0.292,1,You seem calm with intensity 3. It might help to try continue routine now.
+neutral,3.32,deep work,within_15_min,0.27,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+calm,2.96,continue routine,now,0.284,1,You seem calm with intensity 3. It might help to try continue routine now.
+focused,3.39,reflect,later_today,0.21,1,You seem focused with intensity 3. It might help to try reflect later today.
+neutral,3.33,deep work,within_15_min,0.38,1,You seem neutral with intensity 3. It might help to try deep work within 15 min.
+calm,3.13,continue routine,now,0.216,1,You seem calm with intensity 3. It might help to try continue routine now.
+mixed,3.24,reflect,later_today,0.234,1,You seem mixed with intensity 3. It might help to try reflect later today.
+mixed,3.5,reflect,later_today,0.286,1,You seem mixed with intensity 4. It might help to try reflect later today.
